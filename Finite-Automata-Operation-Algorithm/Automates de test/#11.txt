@@ -1,0 +1,16 @@
+Etat_initiaux
+0
+Etat_terminaux
+2
+Alphabet
+a b
+Automate
+0 a 2
+2 a 1
+2 b 0
+0 b 3
+3 a 3
+3 b 3
+1 a 3
+1 b 3
+FIN
