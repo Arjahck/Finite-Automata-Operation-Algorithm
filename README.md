@@ -1,6 +1,6 @@
 # Finite-Automata-Operation-Algorithm
 
-This alogrithme 
+alorithme to excutre operations on automata
 
 ## Disclaimer
 
