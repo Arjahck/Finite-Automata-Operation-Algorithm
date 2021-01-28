@@ -2,6 +2,20 @@
 
 alorithme to excutre operations on automata
 
+.
++-- main.cpp
++-- src
+|   +-- automate.cpp
+|   +-- etat.cpp
+|   +-- transition.cpp
+|   +-- utilitaire.cpp
++-- include
+|   +-- automate.h
+|   +-- etat.h
+|   +-- transition.h
+|   +-- utilitaire.h
+
+
 ## Disclaimer
 
 This project was done in Codeblocks (can result to missing file error when run by another application).
