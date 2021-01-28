@@ -1,9 +1,0 @@
-Etat_initiaux
-0
-Etat_terminaux
-1
-Alphabet
-a
-Automate
-0 a 1
-FIN
