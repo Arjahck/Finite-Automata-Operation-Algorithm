@@ -27,7 +27,7 @@ Ex :
 ![alt text](https://i.imgur.com/uFjUnMH.png)
 
 
-!!! ALl The screenshots are based on the finite automata 6.
+!!! All The screenshots are based on the finite automata 6.
 
 ### 2) display automata
 
