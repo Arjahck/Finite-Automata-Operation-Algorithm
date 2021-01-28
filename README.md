@@ -1,4 +1,4 @@
-Programmed : 05/2019
+Date : 05/2019
 
 # Finite-Automata-Operation-Algorithm
 
