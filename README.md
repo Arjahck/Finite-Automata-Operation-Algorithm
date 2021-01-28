@@ -1,7 +1,7 @@
 # Finite-Automata-Operation-Algorithm
 
 alorithme to excutre operations on automata
-
+```
 .
 +-- main.cpp
 +-- src
@@ -14,7 +14,7 @@ alorithme to excutre operations on automata
 |   +-- etat.h
 |   +-- transition.h
 |   +-- utilitaire.h
-
+```
 
 ## Disclaimer
 
