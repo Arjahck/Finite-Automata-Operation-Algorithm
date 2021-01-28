@@ -1,3 +1,5 @@
+Programmed : 05/2019
+
 # Finite-Automata-Operation-Algorithm
 
 alorithme to excutre operations on automata
